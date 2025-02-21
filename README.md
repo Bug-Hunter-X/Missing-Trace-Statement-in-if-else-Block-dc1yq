@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript bug: forgetting to add a trace statement in one branch of an if-else statement, which makes debugging harder. The `bug.as` file contains the buggy code, while `bugSolution.as` shows the corrected version with debugging trace statements in both branches of the if-else statement.
